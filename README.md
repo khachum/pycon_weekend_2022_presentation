@@ -1,1 +1,1 @@
-# pycon_weekend_2022_presentation
+В данном репозитории содержится ноутбук к презентации про ускорение Python-кода для Pycon Weekend 2022.
